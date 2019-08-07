@@ -1,0 +1,22 @@
+.button {
+    width: 350px;
+    height: 50px;
+    display: block;
+    position: relative;
+    margin: 0 auto;
+    background: #e14;
+    clip-path:  polygon(
+        5% 0, 100% 0, 100% 60%, 95% 100%, 0 100%, 0 40%
+      );
+    color: #fff;
+    font-weight: 700;
+    font-size: 15px;
+    text-transform: uppercase;
+    border: none;
+    letter-spacing: 1px;
+    cursor: pointer;
+}
+
+.button:hover {
+    background: #b01;
+}
