@@ -1,0 +1,11 @@
+#container-header {
+    border-bottom-width: 2px;
+    border-bottom-color: #444;
+    border-bottom-style: solid;
+    width: 90%;
+}
+
+#container-header img {
+    display: block;
+    margin: 0 auto;
+}

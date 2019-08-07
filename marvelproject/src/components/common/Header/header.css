@@ -1,0 +1,9 @@
+#header {
+    background: #444;
+}
+
+#header img {
+    display: block;
+    margin: 0 auto;
+    max-width: 12%;
+}
